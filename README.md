@@ -29,26 +29,26 @@ The main classes are: Telegram (Telegram.php) that manages updates; DB (DB.php) 
 The bot manages a set of Comands and Inline Queries that can be see with the bot comand /help. 
 
 ### Commands 
-/language - Set your language
-/begin - Start tracking your trip
-/setprivate - Set your current trip private
-/setpublic - Set your current trip public
-/setname - Set your current trip name
-/setname name - Set your current trip name
-/settag - Set a tag for your last registered position
-/settag tagname - Set a tag(generic, danger or poi) for your last registered position
-/show - Show your current trip
-/end - Close your current trip
-/confirm - Confirm your current trip, it must be closed
-/help - Show full command description
-/about - Show bot information
+ - /language - Set your language
+ - /begin - Start tracking your trip
+ - /setprivate - Set your current trip private
+ - /setpublic - Set your current trip public
+ - /setname - Set your current trip name
+ - /setname name - Set your current trip name
+ - /settag - Set a tag for your last registered position
+ - /settag tagname - Set a tag(generic, danger or poi) for your last registered position
+ - /show - Show your current trip
+ - /end - Close your current trip
+ - /confirm - Confirm your current trip, it must be closed
+ - /help - Show full command description
+ - /about - Show bot information
 ### Inline Query
-@GisChatBot trips - Show all nearest public or owned trips
-@GisChatBot trips keyword - Show all trips found using the given word
-@GisChatBot trips number - Show all public or owned trips in a radius of specified kilometers
-@GisChatBot search - Show all nearest areas
-@GisChatBot search area name - Show a list of area found with the given word
-@GisChatBot search number - Show a list of area in a radius of specified kilometers 
+ - @GisChatBot trips - Show all nearest public or owned trips
+ - @GisChatBot trips keyword - Show all trips found using the given word
+ - @GisChatBot trips number - Show all public or owned trips in a radius of specified kilometers
+ - @GisChatBot search - Show all nearest areas
+ - @GisChatBot search area name - Show a list of area found with the given word
+ - @GisChatBot search number - Show a list of area in a radius of specified kilometers 
 ### Maps
 
 ## License
