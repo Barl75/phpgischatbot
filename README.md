@@ -60,12 +60,12 @@ which this project is licensed under.
 ## Credits
 People that have contributed to the current project: 
 
-name: Elisa Pau,
-email: eladomus07@gmail.com,
-homepage: https://github.com/elaaa92,
-role: Maintainer and Developer
+###  Elisa Pau,
+ - email: eladomus07@gmail.com,
+ - homepage: https://github.com/elaaa92,
+ - role: Maintainer and Developer
 
-name: Roberto Demontis,
-email: demontis@crs4.it,
-homepage: https://github.com/bobdemos,
-role: Maintainer and Developer
+###  Roberto Demontis,
+ - email: demontis@crs4.it,
+ - homepage: https://github.com/bobdemos,
+ - role: Maintainer and Developer
