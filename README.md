@@ -67,5 +67,5 @@ People that have contributed to the current project:
 
 ###  Roberto Demontis,
  - email: demontis@crs4.it,
- - homepage: https://github.com/bobdemos,
+ - homepage: https://github.com/bobdemo,
  - role: Maintainer and Developer
