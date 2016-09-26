@@ -58,4 +58,14 @@ Please see the [LICENSE](LICENSE.md) included in this repository for a full copy
 which this project is licensed under.
 
 ## Credits
-Credit list in [CREDITS](CREDITS)
+People that have contributed to the current project: 
+
+name: Elisa Pau,
+email: eladomus07@gmail.com,
+homepage: https://github.com/elaaa92,
+role: Maintainer and Developer
+
+name: Roberto Demontis,
+email: demontis@crs4.it,
+homepage: https://github.com/bobdemos,
+role: Maintainer and Developer
